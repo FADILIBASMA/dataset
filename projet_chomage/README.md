@@ -24,7 +24,7 @@ Le graphique généré met en évidence les variations de la période :
 * Une hausse significative à partir de 2023 (**13.0%**) pour culminer à un pic en 2024 avec **13.5%**.
 * Une stabilisation relative avec une légère diminution estimée en 2025 autour de **13.1%**.
 
-![Évolution du Taux de Chômage au Maroc](projet_chomage/evolution_chomage_maroc.png)
+![Évolution du Taux de Chômage au Maroc](Figure_1.png)
 
 ---
 
