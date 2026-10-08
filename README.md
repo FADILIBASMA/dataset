@@ -18,11 +18,13 @@ Les données utilisées proviennent des tendances et rapports officiels du Haut-
 ---
 
 ## 3. Visualisation Graphique
-Le graphique généré (`evolution_chomage_maroc.png`) met en évidence les variations de la période :
+Le graphique généré met en évidence les variations de la période :
 
 * Une légère baisse observée entre 2021 (**12.3%**) et 2022 (**11.8%**).
 * Une hausse significative à partir de 2023 (**13.0%**) pour culminer à un pic en 2024 avec **13.5%**.
 * Une stabilisation relative avec une légère diminution estimée en 2025 autour de **13.1%**.
+
+![Évolution du Taux de Chômage au Maroc](evolution_chomage_maroc.png)
 
 ---
 
